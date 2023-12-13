@@ -1,2 +1,1 @@
-# Data-Wrangling
-lab 6 to lab 10
+# IBM Data Analyst Capstone Project
